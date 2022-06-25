@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="251.984" height="317.344" viewBox="0 0 251.984 317.344">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_51" data-name="Rectangle 51" width="251.984" height="317.344" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_24" data-name="Path 24" d="M0,0V9.632H58.48a49.593,49.593,0,0,1,49.536,49.536v172a59.234,59.234,0,0,0,59.168,59.167H220.16v-9.631H167.184a49.593,49.593,0,0,1-49.536-49.536v-172A59.236,59.236,0,0,0,58.48,0Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="Rectangle_49" data-name="Rectangle 49" width="63.648" height="63.647" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_23" data-name="Group 23" opacity="0.57">
+    <g id="Group_22" data-name="Group 22" clip-path="url(#clip-path)">
+      <g id="Group_16" data-name="Group 16">
+        <g id="Group_15" data-name="Group 15" clip-path="url(#clip-path-2)">
+          <image id="Rectangle_48" data-name="Rectangle 48" width="220.16" height="291.712" transform="translate(0 -0.512)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAADUCAYAAAAbfCj6AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAM5SURBVHhe7dJLjts4FEBRWVlWL7+31MPY6kdajhMg8zs5ByiIJX5EA/fxz7///TiO4/HjOs71PB/HeV7XY8bnGj+ueTfjv8w9Zm4e99xx7ef6/5w9a838M/uv/e69Zq/fc7P+vWZvvfbZv/bfa9b4j7nf7rjOXWv23Hxvr11zc48Zf/fvd5/9+47rXt+z9tz7jnv9Ouv+3vzW/bzP2ee+1693v83NWTN5j+esX/u/++Yb+3mv/6z5/o7P3Pc5699z16x/Pl/nz9f1eD2v8zn3eq3x6/2c9+fzHq93M57n63ytffN8zp41Xu/23NzrM9771tw161/HPb/OeO11a/4zXt9f3/55f/++x9xnvrP33O/m75rfNe/XeN9p/p99x/zcPb/PW2vWD4WMAEkJkJQASQmQlABJCZCUAEkJkJQASQmQlABJCZCUAEkJkJQASQmQlABJCZCUAEkJkJQASQmQlABJCZCUAEkJkJQASQmQlABJCZCUAEkJkJQASQmQlABJCZCUAEkJkJQASQmQlABJCZCUAEkJkJQASQmQlABJCZCUAEkJkJQASQmQlABJCZCUAEkJkJQASQmQlABJCZCUAEkJkJQASQmQlABJCZCUAEkJkJQASQmQlABJCZCUAEkJkJQASQmQlABJCZCUAEkJkJQASQmQlABJCZCUAEkJkJQASQmQlABJCZCUAEkJkJQASQmQlABJCZCUAEkJkJQASQmQlABJCZCUAEkJkJQASQmQlABJCZCUAEkJkJQASQmQlABJCZCUAEkJkJQASQmQlABJCZCUAEkJkJQASQmQlABJCZCUAEkJkJQASQmQlABJCZCUAEkJkJQASQmQlABJCZCUAEkJkJQASQmQlABJCZCUAEkJkJQASQmQlABJCZCUAEkJkJQASQmQlABJCZCUAEkJkJQASQmQlABJCZCUAEkJkJQASQmQlABJCZCUAEkJkJQASQmQlABJCZCUAEkJkJQASQmQlABJCZCUAEkJkJQASQmQlABJCZCUAEkJkJQASQmQlABJCZCUAEkJkJQASQmQlABJCZCUAEkJkJQASQmQlABJCZCUAEkJkJQASQmQlABJCZDQcfwPjV3CxrXTygEAAAAASUVORK5CYII="/>
+        </g>
+      </g>
+      <g id="Group_21" data-name="Group 21">
+        <g id="Group_20" data-name="Group 20" clip-path="url(#clip-path)">
+          <g id="Group_19" data-name="Group 19" transform="translate(188.336 253.697)" opacity="0.24">
+            <g id="Group_18" data-name="Group 18">
+              <g id="Group_17" data-name="Group 17" clip-path="url(#clip-path-4)">
+                <path id="Path_25" data-name="Path 25" d="M200.52,216.2A31.823,31.823,0,1,1,168.7,184.372,31.825,31.825,0,0,1,200.52,216.2" transform="translate(-136.872 -184.373)" fill="#dff2f5"/>
+              </g>
+            </g>
+          </g>
+          <path id="Path_26" data-name="Path 26" d="M184.491,212.756a19.234,19.234,0,1,1-19.235-19.235,19.235,19.235,0,0,1,19.235,19.235" transform="translate(54.904 72.764)" fill="#23b7d3"/>
+          <circle id="Ellipse_1" data-name="Ellipse 1" cx="23.29" cy="23.29" r="23.29" transform="translate(196.87 262.23)" fill="none" stroke="#23b7d3" stroke-miterlimit="10" stroke-width="0.5"/>
+          <path id="Path_27" data-name="Path 27" d="M195.935,215.212a28.222,28.222,0,1,1-28.223-28.223A28.223,28.223,0,0,1,195.935,215.212Z" transform="translate(52.448 70.308)" fill="none" stroke="#23b7d3" stroke-miterlimit="10" stroke-width="0.5"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
