@@ -607,7 +607,6 @@ textarea:focus {
     height: 100vh;
     background: #070707;
     z-index: 100000000;
-    display: none;
 }
 .preloader::before
 {
