@@ -343,7 +343,7 @@ textarea:focus {
     height: 50px;
     position: absolute;
     z-index: 10;
-    top: -3px;
+    top: -8px;
     right: 0px;
     cursor: pointer;
     transition: transform 0.3s ease-in-out;
@@ -527,10 +527,7 @@ textarea:focus {
 }
 
 @media only screen and (max-width:767px){
-    .menu-btn
-    {
-        top: -34px;
-    }
+   
     #nav.leftslide
     {
         width: 300px;
@@ -666,9 +663,10 @@ section h2
 .btn-theme
 {
     background-color: #48D9D9;
-    color: #fff;
+    color: #02004A;
     padding: 7px 15px;
     border-radius: 0;
+    font-weight: bold;
 }
 .btn-theme:hover
 {
@@ -835,6 +833,7 @@ img.vert-move {
     .blockchain-image
     {
         min-width: 300px;
+        margin-bottom: 2rem;
     }
     .community-left-column::before
     {
@@ -847,9 +846,27 @@ img.vert-move {
         left: 78%;
         top: -2%;
     }
+    .about-section .float-2
+    {
+        display: none;
+    }
     .about-section .float-3
     {
         display: none;
+    }
+    .community-block div
+    {
+        margin-bottom: 2rem;
+    }
+    .border-mob-none
+    {
+        display: none;
+    }
+    .about-section::before
+    {
+        height: 68%;
+        bottom: -17%;
+        background-position: bottom;
     }
 }
 
@@ -1127,6 +1144,8 @@ img.vert-move {
     {
         width: 102%;
         margin-left: -3px;
+        margin-top: 0rem;
+        margin-bottom: 3rem;
     }
 }
 /*-----end testimonial section css -----------*/
@@ -1161,10 +1180,14 @@ img.vert-move {
     color: #989696;
 }
 .nft-wrapper .nft-column a{
-    color: #9DFFFD;
+    color: #989696;
     font-weight: 700;
     font-size: 1.2rem;
 }
+.nft-wrapper .nft-column a svg
+{
+    color: #9DFFFD;
+} 
 .nft-wrapper .nft-column .nft-step
 {
     line-height: 35px;
@@ -1177,7 +1200,7 @@ img.vert-move {
 {
     position: absolute;
     left: 30%;
-    top: -5%;
+    top: 10%;
 }
 .nft-section .float-6
 {
@@ -1318,7 +1341,7 @@ only screen and (max-width: 767.98px) {
     position: relative;
     padding: 2rem;
     min-height: 350px;
-    background-image: url("../img/nftscam.png");
+    background-image: url("../img/blog-bg.png");
     background-size: cover;
 }
 .blog-dark
@@ -1443,6 +1466,15 @@ only screen and (max-width: 767.98px) {
    padding-top: 150px;
    padding-right: 40px;
 }
+@media only screen and (max-width:991px){
+    .athlete-hero
+    {
+        background: url("../img/athelete-hero-mobile.png");
+        background-size: cover;
+        background-position-y: -3rem;
+        background-repeat: no-repeat;
+    }
+}
 /*----------end athelete page css-----*/
 
 
@@ -1477,6 +1509,13 @@ only screen and (max-width: 767.98px) {
     .talk-section .float-5,  .talk-section .float-6
     {
         display: none;
+    }
+    .membership-hero
+    {
+        background: url("../img/membership-hero-mobile.png");
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
     }
 }
 /*----------end membership page css-----*/
@@ -1537,18 +1576,23 @@ only screen and (max-width: 767.98px) {
     }
     .diverse-text
     {
-        font-size: 3rem;
+        display: none;
+    }
+    .diverse-text+p
+    {
+        padding-top: 2rem;
+        padding-right: 10px;
     }
     .video-wrapper
     {
         width: 100%;
         position: relative;
         height: 400px;
-        top: 40px;
+        top: 60px;
     }
     section
     {
-        padding: 2rem 0;
+        padding: 4rem 0;
     }
     .member-section
     {
